@@ -17,8 +17,8 @@
                     <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                         <li><a href="index.php" class="nav-link">Home</a></li>
                         <li><a href="osi-layer.php" class="nav-link">OSI Layer</a></li>
-                        <li><a href="#" class="nav-link">Subnetting</a></li>
-                        <li><a href="#" class="nav-link">TCP/IP Setting</a></li>
+                        <li><a href="subnet.php" class="nav-link">Subnetting</a></li>
+                        <li><a href="ip.php" class="nav-link">TCP/IP Setting</a></li>
                         <li><a href="member.php" class="nav-link">Member</a></li>
                     </ul>
                 </nav>

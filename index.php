@@ -10,12 +10,14 @@
 </div>
 <div class="site-wrap">
     <?php include('include/topbar.php') ?>
-    <div class="site-blocks-cover overlay" style="background-image: url(asset/images/home.jpg);" data-aos="fade" id="home-section">
+    <div class="site-blocks-cover overlay" style="background-image: url(asset/images/upload/home.svg);" data-aos="fade" id="home-section">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-md-8 mt-lg-5 text-center">
-                    <h1 class="text-uppercase" data-aos="fade-up">Welcome</h1>
-                    <p class="mb-5 desc font-weight-bold " data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio soluta eius error.</p>
+                    <h1 class="text-uppercase text-dark" data-aos="fade-up">Project</h1>
+                    <p class="mb-5 desc font-weight-bold text-dark" data-aos="fade-up" data-aos-delay="100">
+                        DATA COMMUNICATION AND NETWORKING
+                    </p>
                     <div data-aos="fade-up" data-aos-delay="100">
                         <a href="member.php" class="btn smoothscroll btn-primary mr-2 mb-2">Our Hardworking Team</a>
                     </div>
